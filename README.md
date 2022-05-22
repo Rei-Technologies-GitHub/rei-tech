@@ -1,4 +1,4 @@
 # rei-tech
 Hub of Everything Rei technologies, see what gets done here and follow company progress.
 
-Rei Technologies is a 2022 startup company founded by Reinier "Rei" Johnson. Rei founded the company with the aim to create affordable, and reusable aerospace launch solutions, affordable UAV solutions, and software simulation solutions for aerospace entrepreneurs. 
+The RTA1 is a mid-class rocket motor launched vehicle. It's first three vehicles, TV01-03 are contracted and will be made in-house by Rei Technologies. Everything to do with the rockets can be found here, this is the RTA1 Hub!
